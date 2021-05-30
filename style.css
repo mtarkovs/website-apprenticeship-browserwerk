@@ -321,14 +321,14 @@
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -mo-text-fill-color: transform;
-    padding-right: 12rem;
+    padding-right: 5rem;
 }
 
 .hero__text#descriptionSecond:hover {
-    -webkit-transform: scale(0.8);
-    -ms-transform: scale(0.8);
-    transform: scale(0.8);
-    transition: all 0.9s ease;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: all 0.5s ease;
 }
 
 .hero__container p {
