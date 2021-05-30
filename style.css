@@ -331,6 +331,11 @@
     transition: all 0.7s ease;
 }
 
+.hero__header {
+    margin-top: 20rem;
+    padding-bottom: 16px;
+}
+
 .hero__container p {
     color: #fff;
     justify-content: center;
