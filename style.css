@@ -325,12 +325,10 @@
 }
 
 .hero__text#descriptionSecond:hover {
-
-}
-
-.hero__header {
-    margin-top: 42rem;
-    margin-bottom: 22px;
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    transition: all 0.9s ease;
 }
 
 .hero__container p {
