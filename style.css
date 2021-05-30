@@ -321,7 +321,7 @@
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -mo-text-fill-color: transform;
-    padding-right: 8rem;
+    padding: 0 90px 0 0;
 }
 
 .hero__text#descriptionSecond:hover {
@@ -332,8 +332,8 @@
 }
 
 .hero__header {
-    margin-top: 20rem;
-    padding-bottom: 16px;
+    margin-top: 40rem;
+    padding-bottom: 25px;
 }
 
 .hero__container p {
