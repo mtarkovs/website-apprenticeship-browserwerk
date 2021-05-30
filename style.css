@@ -321,7 +321,7 @@
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -mo-text-fill-color: transform;
-    padding-right: 5rem;
+    padding-right: 0;
 }
 
 .hero__text#descriptionSecond:hover {
