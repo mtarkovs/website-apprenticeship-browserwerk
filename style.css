@@ -312,7 +312,7 @@
 }
 
 .hero__text {
-    font-size: 50px;
+    font-size: 44px;
     font-weight: bolder;
     background: -webkit-linear-gradient(to right, #683b2b, #b39b92); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #683b2b, #b99d92); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -325,10 +325,10 @@
 }
 
 .hero__text#descriptionSecond:hover {
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-    transform: scale(1.1);
-    transition: all 0.5s ease;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: all 0.7s ease;
 }
 
 .hero__container p {
